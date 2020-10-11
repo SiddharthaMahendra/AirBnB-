@@ -35,7 +35,7 @@ The data will be explored implementing Cross-Industry Standard Process for Data 
 3.Dummies were created for Categorical Columns.
 4.Only relevant features were included in the model.
 
-##Results
+## Results
 
 1.Our model could predict with alomst 90% accuracy the availability of a particular listing.
 2.We could also identify the most relevant features for the model which were the price and number of reviews followed by other fields.
