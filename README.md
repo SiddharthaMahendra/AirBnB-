@@ -37,5 +37,5 @@ The data will be explored implementing Cross-Industry Standard Process for Data 
 
 ## Results
 
-1.Our model could predict with alomst 90% accuracy the availability of a particular listing.
+1.Our model could predict with alomst 90% accuracy the availability of a particular listing."\n"
 2.We could also identify the most relevant features for the model which were the price and number of reviews followed by other fields.
