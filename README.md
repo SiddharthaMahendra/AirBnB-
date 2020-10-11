@@ -13,13 +13,13 @@ The data will be explored implementing Cross-Industry Standard Process for Data 
 5.Evaluation
 6.Deployment
 
-##Files
+## Files
 1.seattle.zip 
 2.calendar.csv 
 3.listings.csv 
 4.reviews.csv 
 
-##Analysis 
+## Analysis 
 
 1.We found that the peak season is June-August
 2.Listings are pricier on weekends.
