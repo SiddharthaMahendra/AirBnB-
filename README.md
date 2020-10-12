@@ -14,6 +14,9 @@ The data will be explored implementing Cross-Industry Standard Process for Data 
 6.Deployment
 
 ## Files
+
+https://www.dropbox.com/sh/fyq6mnphdcpv6fw/AADXoqzYHKdvRLF1Q5oBYW-pa?dl=0
+
 1.seattle.zip 
 2.calendar.csv 
 3.listings.csv 
