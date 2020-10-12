@@ -39,3 +39,7 @@ The data will be explored implementing Cross-Industry Standard Process for Data 
 
 1.Our model could predict with alomst 90% accuracy the availability of a particular listing.
 2.We could also identify the most relevant features for the model which were the price and number of reviews followed by other fields.
+
+## Blog
+
+https://medium.com/@sidc1998/if-you-love-travelling-you-ought-to-love-airbnb-c707247bd9a3?source=friends_link&sk=b70ae5928cfba1d8816857fc60a21203
