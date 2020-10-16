@@ -31,7 +31,7 @@ https://www.dropbox.com/sh/fyq6mnphdcpv6fw/AADXoqzYHKdvRLF1Q5oBYW-pa?dl=0
 
 ## Analysis 
 
-Question 1. I wanted to know at what time of the month did listings tend to be pricier ?
+Question 1. I wanted to know at what time of the month did listings tend to be pricier ?"\n"
 Answer 1.  From our analysis we found listings tend to be more expensive on weekends and for this particular dataset the peak season was June- August.
 
 Question 2. Do more expensive listings tend to have better reviews?. 
