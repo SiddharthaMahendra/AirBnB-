@@ -57,7 +57,7 @@ https://medium.com/@sidc1998/if-you-love-travelling-you-ought-to-love-airbnb-c70
 
 ## Acknowledgements
 
-1.Credit to the AirBnB dataset published by AirBnB and Kaggle for hosting it, the dataset here: https://www.kaggle.com/airbnb/seattle
-2.SentimentIntensityAnalyzer was adapted from: https://www.nltk.org/api/nltk.sentiment.html
-3.Heatmap reference: https://stackoverflow.com/questions/12286607/making-heatmap-from-pandas-datafram
+1.Credit to the AirBnB dataset published by AirBnB and Kaggle for hosting it, the dataset here: https://www.kaggle.com/airbnb/seattle<br/>
+2.SentimentIntensityAnalyzer was adapted from: https://www.nltk.org/api/nltk.sentiment.html<br/>
+3.Heatmap reference: https://stackoverflow.com/questions/12286607/making-heatmap-from-pandas-datafram<br/>
 4.Random Forest Classifier: https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.RandomForestClassifier.html
