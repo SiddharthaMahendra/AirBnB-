@@ -10,13 +10,13 @@ Being a frequent user of Airbnb. This intrigued me to do an in-depth analysis of
 ## Introdcution
 Airbnb is one of the leading companies in the travel domain. I aim to explore trends in this data to get a deeper understanding by doing an in-depth analysis of the data. I furthermore design a model to predict availability of a specific listing.
 
-The data will be explored implementing Cross-Industry Standard Process for Data Mining better known as CRISP-DM. The CRISP-Dm process is comprised from six steps:¶
+The data will be explored implementing Cross-Industry Standard Process for Data Mining better known as CRISP-DM. The CRISP-Dm process is comprised from six steps:<br/>
 
-1.Business Understanding
-2.Data Understanding
-3.Data Preparation
-4.Modelling
-5.Evaluation
+1.Business Understanding<br/>
+2.Data Understanding<br/>
+3.Data Preparation<br/>
+4.Modelling<br/>
+5.Evaluation<br/>
 6.Deployment
 
 ## Files
@@ -31,16 +31,16 @@ https://www.dropbox.com/sh/fyq6mnphdcpv6fw/AADXoqzYHKdvRLF1Q5oBYW-pa?dl=0
 
 ## Analysis 
 
-Question 1. I wanted to know at what time of the month did listings tend to be pricier ?"\n"
-Answer 1.  From our analysis we found listings tend to be more expensive on weekends and for this particular dataset the peak season was June- August.
+Question 1. I wanted to know at what time of the month did listings tend to be pricier ?<br/>
+Answer 1.  From our analysis we found listings tend to be more expensive on weekends and for this particular dataset the peak season was June- August.<br/>
 
-Question 2. Do more expensive listings tend to have better reviews?. 
+Question 2. Do more expensive listings tend to have better reviews?. <br/>
 Answer 2. After conducting a Sentiment Anlaysis of the reviews and computing vader scores and comparing it to the prices we found there is no linear relationship between the two.
 
-Question 3. Do Super Hosts tend to charge more than Regular Hosts and do they also tend to obtain better reviews ?
-Answer 3. After doing Statistial Tests we can say with confidence that Super Hosts don't tend to overcharge for their listings and we can ignore security deposit as it is returned if the apartment is not damaged but from our analysis we can clearlt see that Super Hosts tend to obtain better reviews than Regular Hosts.
+Question 3. Do Super Hosts tend to charge more than Regular Hosts and do they also tend to obtain better reviews ?<br/>
+Answer 3. After doing Statistial Tests we can say with confidence that Super Hosts don't tend to overcharge for their listings and we can ignore security deposit as it is returned if the apartment is not damaged but from our analysis we can clearlt see that Super Hosts tend to obtain better reviews than Regular Hosts.<br/>
 
-Question 4. Designing a Machine Learning to model to predict whether a listing is made available on a particular date?
+Question 4. Designing a Machine Learning to model to predict whether a listing is made available on a particular date?<br/>
 Answer 4. We were successfuly able to design a RCF Model that can predict with almost 90% accuracy whether a listing will be made available by a host or not and the most important feature for our model was price followed by the reviews.
 
 ## Modelling
